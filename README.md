@@ -17,6 +17,7 @@ Desenvolver um sistema que permita:
 🧑‍🤝‍🧑 Listar todos os pacientes cadastrados
 
 🔧 Funcionalidades
+
 🗂️ 1. Cadastro de Pacientes
 
 Registro de nome, CPF, e-mail, telefone, plano de saúde e endereço
