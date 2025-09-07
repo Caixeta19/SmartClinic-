@@ -1,8 +1,8 @@
-🏥 SmartClinic — Sistema de Gerenciamento de Consultas Médicas
+#🏥 SmartClinic — Sistema de Gerenciamento de Consultas Médicas
 
 Projeto acadêmico desenvolvido com o objetivo de aplicar conhecimentos em Java, estruturas de dados e programação orientada a objetos, criando uma aplicação de console funcional para gerenciamento de consultas médicas.
 
-🧠 Objetivo do Projeto
+#🧠 Objetivo do Projeto
 
 Desenvolver um sistema que permita:
 
@@ -16,7 +16,7 @@ Consultar o histórico de consultas
 
 Listar todos os pacientes cadastrados
 
-🔧 Funcionalidades Implementadas
+#🔧 Funcionalidades Implementadas
 1. Cadastro de Pacientes
 
 Armazenamento de nome, CPF, e-mail, telefone, plano de saúde e endereço
@@ -31,7 +31,7 @@ Listagem de todas as consultas agendadas
 
 Listagem completa de todos os pacientes cadastrados no sistema
 
-🔧 Funcionalidades  a serem Implementadas
+#🔧 Funcionalidades  a serem Implementadas
 
 1. Agendamento de Consultas
 
@@ -43,9 +43,9 @@ Validação de entrada de dados
 
 Remoção ou atualização de consultas já agendadas
 
-⚙️ Tecnologias Utilizadas
+#⚙️ Tecnologias Utilizadas
 Frontend / Console	Backend / Lógica	Estrutura de Dados	Outros
 Java 21	Java Classes	ArrayList	Scanner (entrada de dados)
 
-👨‍💻 Desenvolvedor
+#👨‍💻 Desenvolvedor
 Guilherme Caixeta
