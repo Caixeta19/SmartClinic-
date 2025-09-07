@@ -49,7 +49,7 @@ public class Main {
                             CadastroPaciente paciente1 = new CadastroPaciente(nome, cpf, email, telefone, planoDeSaude, endereco);
                             consultas.add(paciente1);
 
-                            System.out.println("Consulta agendada com sucesso para: " + paciente1.getNome());
+                            System.out.println("Cadastro realizado com sucesso Sr(a)" + paciente1.getNome());
 
                         } else if (resposta == 2) {
                             System.out.println("Voltando ao menu...");
