@@ -43,6 +43,6 @@ Remoção ou atualização de consultas já agendadas
 🌐 Tecnologias Utilizadas
 Frontend / Console	Backend / Lógica	Estrutura de Dados	Outros
 Java 21	Java Classes	ArrayList	Scanner (entrada de dados)
-👨‍💻 Desenvolvedor
 
+👨‍💻 Desenvolvedor
 Guilherme Caixeta
